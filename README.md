@@ -1,7 +1,11 @@
 # TypeScript
 
+## Úteis
+
 - [Template](estudos/template.md)
 - [Compilador](estudos/compilador.md)
+
+## Introdução
 
 1. [Sobre o TypeScript](estudos/about.md)
 1. [Tipos](estudos/tipos.md)
